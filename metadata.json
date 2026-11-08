@@ -1,0 +1,6 @@
+{
+  "name": "Książka Przepisów & Lista Zakupów",
+  "description": "Nowoczesny organizer kulinarny z grupami przepisów, listą zakupów, miniaturkami, eksportem Word, plikami JSON, drukiem A4 i widokiem mobilnym.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
